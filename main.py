@@ -265,8 +265,10 @@ assert_equal(is_valid_number("1.2.3"), False)
 
 
 
- 
-  """
+
+
+
+"""
     Show the home page with the stock picker and navigation buttons.
     Args:
         state: The current state.
